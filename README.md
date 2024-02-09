@@ -14,3 +14,4 @@
   - [Selenide](https://selenide.org/)
 - Custom Framework:
   - Java-Based 
+![AutomationFramework](./AutomationFramework.png)
