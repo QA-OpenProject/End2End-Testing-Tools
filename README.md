@@ -13,5 +13,6 @@
   - [Katalium](https://katalon.com/)
   - [Selenide](https://selenide.org/)
 - Custom Framework:
-  - Java-Based 
+  - Java-Based
+
 ![AutomationFramework](./AutomationFramework.png)
